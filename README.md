@@ -1,6 +1,6 @@
 # VITMAS_TASK_0_21MID0016
 ## git config
-Usage:**git config –global user.name “[name]”** 
+Usage:**`git config –global user.name “[name]”**` 
 
 Usage:**git config –global user.email “[email address]”** 
 
